@@ -1,0 +1,4 @@
+#ifndef KINDOFSPORT_H
+#define KINDOFSPORT_H
+
+#endif // KINDOFSPORT_H

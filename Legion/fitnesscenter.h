@@ -1,0 +1,4 @@
+#ifndef FITNESSCENTER_H
+#define FITNESSCENTER_H
+
+#endif // FITNESSCENTER_H
